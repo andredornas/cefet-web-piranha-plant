@@ -1,0 +1,17 @@
+img{
+  border: 4px;
+  border-style: solid;
+  color: #6aa84f;
+}
+p {
+  font-family: "Arial";
+  text-align: justify;;   /* centraliza texto */
+}
+h1 {
+  font-family: "Times New Roman";
+  font-size: 28px;
+}
+h2{
+  font-family: "Times New Roman";
+  font-size: 24px;
+}
